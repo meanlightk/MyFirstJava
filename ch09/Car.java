@@ -1,5 +1,7 @@
-package ch09.sec07.exam01;
+package ch09;
 
+
+// 익명 자식 객체
 public class Car {
 
 	// 필드에 Tire 객체 대입

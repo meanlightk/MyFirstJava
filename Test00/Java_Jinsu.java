@@ -1,4 +1,4 @@
-package FirstTest;
+package Test00;
 
 import java.io.IOException;
 import java.util.Scanner;
