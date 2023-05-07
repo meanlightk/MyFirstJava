@@ -1,5 +1,4 @@
-package ch09;
-
+package ch09.sec07.exam01;
 
 // 익명 자식 객체
 public class Car {

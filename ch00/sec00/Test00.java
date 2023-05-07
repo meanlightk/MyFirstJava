@@ -9,10 +9,9 @@ package ch00.sec00;
 public class Test00 {
 
 	public static void main(String[] args) {
-		
-System.out.println("Hello Java");  // 문자열 출력
+
+		System.out.println("Hello Java"); // 문자열 출력
 //System.out.println("안녕하세요");  // 비실행문 주석
 	}
 
 }
-
